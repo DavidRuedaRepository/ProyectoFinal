@@ -127,7 +127,7 @@ Para cambiar el endpoint de conexión, modifica la constante API_BASE_URL en la 
 
 1.	Clona el repositorio:
  
-      	git clone https://github.com/Mazer-R/Adama_UI.git
+      	git clone https://github.com/DavidRuedaRepository/ProyectoFinal.git
 	      
 2.	Asegúrate de tener Java 23 y Maven instalados.
 3.	Configura el endpoint si es necesario en SessionManager.
